@@ -688,7 +688,7 @@ a{
 
 @media screen and (max-width: 884px) and (min-width: 320px){
     .sf-header{
-        font-size: 2vw;
+        font-size: 2.5vw;
     }
     .dash{
         width: 100px;
